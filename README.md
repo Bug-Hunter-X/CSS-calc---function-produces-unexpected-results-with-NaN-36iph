@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in CSS related to the `calc()` function. When the calculation within `calc()` results in `NaN` (Not a Number), the CSS property does not apply correctly, leading to unpredictable layout or styling issues.  The `bug.css` file showcases the problem, while `bugSolution.css` provides the solution.
